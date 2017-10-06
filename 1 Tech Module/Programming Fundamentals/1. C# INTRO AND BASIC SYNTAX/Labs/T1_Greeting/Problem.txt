@@ -1,0 +1,1 @@
+Write a program, which greets the user by their name, which it reads from the console.

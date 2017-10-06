@@ -1,0 +1,3 @@
+Write a program, which reads 2 whole numbers and adds them together. 
+Then, print them in the following format: 
+“a + b = sum”
