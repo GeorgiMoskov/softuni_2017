@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_TestNumbers", "T12_Test
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_GameofNumbers", "T13_GameofNumbers\T13_GameofNumbers.csproj", "{6F5E0009-DDE2-47CD-8F2F-3E25E1998721}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T14_MagicLetter", "T14_MagicLetter\T14_MagicLetter.csproj", "{7738F275-EEF7-4D36-B185-59BB90925D22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{6F5E0009-DDE2-47CD-8F2F-3E25E1998721}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F5E0009-DDE2-47CD-8F2F-3E25E1998721}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F5E0009-DDE2-47CD-8F2F-3E25E1998721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7738F275-EEF7-4D36-B185-59BB90925D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7738F275-EEF7-4D36-B185-59BB90925D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7738F275-EEF7-4D36-B185-59BB90925D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7738F275-EEF7-4D36-B185-59BB90925D22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
