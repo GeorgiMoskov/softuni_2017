@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T7_CakeIngredients", "T7_Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T8_CaloriesCounter", "T8_CaloriesCounter\T8_CaloriesCounter.csproj", "{88126E60-DD2A-400E-B24A-03E2A5C7D5A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T9_CountIntegers", "T9_CountIntegers\T9_CountIntegers.csproj", "{8B0CCE75-E4B6-4B67-A598-BA85B82614A6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{88126E60-DD2A-400E-B24A-03E2A5C7D5A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88126E60-DD2A-400E-B24A-03E2A5C7D5A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88126E60-DD2A-400E-B24A-03E2A5C7D5A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B0CCE75-E4B6-4B67-A598-BA85B82614A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B0CCE75-E4B6-4B67-A598-BA85B82614A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B0CCE75-E4B6-4B67-A598-BA85B82614A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B0CCE75-E4B6-4B67-A598-BA85B82614A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
