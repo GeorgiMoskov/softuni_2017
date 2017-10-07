@@ -12,22 +12,19 @@ namespace T2_ChooseDrink_V2
         {
             var profession = Console.ReadLine();
             var quantities = int.Parse(Console.ReadLine());
-            var drink = "Tea";
+            
             var price = 1.20;
 
             if (profession == "Athlete")
-            {
-                drink = "Water";
+            { 
                 price = 0.70;
             }
             else if (profession == "Businessman" || profession == "Businesswoman")
             {
-                drink = "Coffee";
                 price = 1.00;
             }
             else if (profession == "SoftUni Student")
             {
-                drink = "Beer";
                 price = 1.70;
             }
 
