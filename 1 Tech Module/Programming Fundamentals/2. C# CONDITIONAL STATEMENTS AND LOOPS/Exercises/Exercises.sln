@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T5_WordinPlural", "T5_Wordi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T6_IntervalofNumbers", "T6_IntervalofNumbers\T6_IntervalofNumbers.csproj", "{AF52167A-A1F0-4D9F-B5DA-06A3F4229439}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T7_CakeIngredients", "T7_CakeIngredients\T7_CakeIngredients.csproj", "{F4E1B47A-F11F-4408-9B9C-4C56EDAC2FF1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{AF52167A-A1F0-4D9F-B5DA-06A3F4229439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF52167A-A1F0-4D9F-B5DA-06A3F4229439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF52167A-A1F0-4D9F-B5DA-06A3F4229439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4E1B47A-F11F-4408-9B9C-4C56EDAC2FF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4E1B47A-F11F-4408-9B9C-4C56EDAC2FF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4E1B47A-F11F-4408-9B9C-4C56EDAC2FF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4E1B47A-F11F-4408-9B9C-4C56EDAC2FF1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
