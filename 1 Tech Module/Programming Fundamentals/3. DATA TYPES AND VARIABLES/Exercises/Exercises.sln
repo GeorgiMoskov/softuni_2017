@@ -27,6 +27,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T11_ConvertSpeedUnits", "T1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T12_RectangleProperties", "T12_RectangleProperties\T12_RectangleProperties.csproj", "{E86F7CDB-6609-4D94-83F6-0CD86097C2EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_VowelOrDigit", "T13_VowelOrDigit\T13_VowelOrDigit.csproj", "{98A7AFBE-6447-48A8-9F42-EC116E17BAFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T14_IntegerToHexAndBinary", "T14_IntegerToHexAndBinary\T14_IntegerToHexAndBinary.csproj", "{292732F3-1531-45DB-9224-CC19C8CAD562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +85,14 @@ Global
 		{E86F7CDB-6609-4D94-83F6-0CD86097C2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E86F7CDB-6609-4D94-83F6-0CD86097C2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E86F7CDB-6609-4D94-83F6-0CD86097C2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98A7AFBE-6447-48A8-9F42-EC116E17BAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98A7AFBE-6447-48A8-9F42-EC116E17BAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98A7AFBE-6447-48A8-9F42-EC116E17BAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98A7AFBE-6447-48A8-9F42-EC116E17BAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{292732F3-1531-45DB-9224-CC19C8CAD562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{292732F3-1531-45DB-9224-CC19C8CAD562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{292732F3-1531-45DB-9224-CC19C8CAD562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{292732F3-1531-45DB-9224-CC19C8CAD562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
