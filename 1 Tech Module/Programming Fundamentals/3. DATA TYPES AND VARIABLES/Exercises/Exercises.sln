@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T14_IntegerToHexAndBinary",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T15_FastPrimeCheckRefactor", "T15_FastPrimeCheckRefactor\T15_FastPrimeCheckRefactor.csproj", "{BC5E467F-1245-47CC-B350-DDFBB10C9A24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T16_ComparingFloats", "T16_ComparingFloats\T16_ComparingFloats.csproj", "{0D1B700D-5798-4F92-9CA8-23140814D55E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{BC5E467F-1245-47CC-B350-DDFBB10C9A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BC5E467F-1245-47CC-B350-DDFBB10C9A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BC5E467F-1245-47CC-B350-DDFBB10C9A24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D1B700D-5798-4F92-9CA8-23140814D55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D1B700D-5798-4F92-9CA8-23140814D55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D1B700D-5798-4F92-9CA8-23140814D55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D1B700D-5798-4F92-9CA8-23140814D55E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
