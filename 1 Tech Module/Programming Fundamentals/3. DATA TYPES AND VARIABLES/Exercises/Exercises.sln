@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T13_VowelOrDigit", "T13_Vow
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T14_IntegerToHexAndBinary", "T14_IntegerToHexAndBinary\T14_IntegerToHexAndBinary.csproj", "{292732F3-1531-45DB-9224-CC19C8CAD562}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T15_FastPrimeCheckRefactor", "T15_FastPrimeCheckRefactor\T15_FastPrimeCheckRefactor.csproj", "{BC5E467F-1245-47CC-B350-DDFBB10C9A24}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{292732F3-1531-45DB-9224-CC19C8CAD562}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{292732F3-1531-45DB-9224-CC19C8CAD562}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{292732F3-1531-45DB-9224-CC19C8CAD562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC5E467F-1245-47CC-B350-DDFBB10C9A24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC5E467F-1245-47CC-B350-DDFBB10C9A24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC5E467F-1245-47CC-B350-DDFBB10C9A24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC5E467F-1245-47CC-B350-DDFBB10C9A24}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
