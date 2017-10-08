@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T16_ComparingFloats", "T16_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T17_PrintPartOfTheAscii", "T17_PrintPartOfTheAscii\T17_PrintPartOfTheAscii.csproj", "{ABA2E73F-8D52-4037-B166-B3B24E1418D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T18_DifferentIntsSize", "T18_DifferentIntsSize\T18_DifferentIntsSize.csproj", "{893BC5E4-B9C4-42F7-A76E-51A401E11CD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{ABA2E73F-8D52-4037-B166-B3B24E1418D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABA2E73F-8D52-4037-B166-B3B24E1418D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABA2E73F-8D52-4037-B166-B3B24E1418D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{893BC5E4-B9C4-42F7-A76E-51A401E11CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{893BC5E4-B9C4-42F7-A76E-51A401E11CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{893BC5E4-B9C4-42F7-A76E-51A401E11CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{893BC5E4-B9C4-42F7-A76E-51A401E11CD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
