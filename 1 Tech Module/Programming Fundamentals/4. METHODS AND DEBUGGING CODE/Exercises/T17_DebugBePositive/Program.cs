@@ -70,8 +70,10 @@ namespace T17_DebugBePositive
                 {
                     Console.WriteLine("(empty)");
                 }
-
+                else
+                {
                 Console.WriteLine();
+                }
             }
         }
     }
